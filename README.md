@@ -3,7 +3,7 @@
 We have created Xcode templates to generate MVVM scaffolding and test scaffolding, making MVVM usage and adoption easier. The scaffolded classes have MVVM wired up, ready to add business logic to them.
 
 # First Step
-Downloaded files and run "install-xcode-template.sh" script in this file.
+Downloaded files and run "install-xcode-template.sh" script with Terminal in this file.
 
 
 # Second Step
